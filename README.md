@@ -51,7 +51,7 @@ https://github.com/user-attachments/assets/72a6baee-0f86-4bfe-b70d-4b43975d17d9
 
 ## 🧑‍💻 Author
 
-Developed by **metin aktaş**
+Developed by **Metin Aktaş**
 
 ---
 
